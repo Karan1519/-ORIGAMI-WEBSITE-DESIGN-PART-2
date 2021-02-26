@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(114, 238, 83);
+}
+p{
+    color: rgb(252, 49, 49);
+    display:flex;
+    justify-content:center;
+  }
+  img{
+      border: solid;
+      display: flexbox;
+  }
+.camel{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(141, 241, 121);
+  }
+  .chameleon{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(141, 241, 121);
+  }
+  .pigeon{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(141, 241, 121);
+  }
+  .bear{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(141, 241, 121);
+  }
+  .panda{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(141, 241, 121);
+  }
+  .cicada{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(141, 241, 121);
+  }
+  .icon{
+    display:flex;
+    justify-content:flex-start;
+    background-color: rgb(141, 241, 121);
+}
+
+  
+  
